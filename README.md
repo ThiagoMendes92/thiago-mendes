@@ -21,6 +21,8 @@
 - 👨‍🎓 Estudante.
 - 🎯 Interesse: HTML, CSS, JavaScript.
 - 🎮 Gosto de jogar League of Legends e World of Warcraft.
+<br>
+<br>
 
 
 ## Skills :nerd_face:
