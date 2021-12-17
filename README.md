@@ -18,7 +18,7 @@
 
 ### Sobre mim
 
-- 👨‍🎓 Estudante.
+- 👨‍🎓 Estudante de analise e desenvolvimento de sistemas.
 - 🎯 Interesse: HTML, CSS, JavaScript.
 - 🎮 Gosto de jogar League of Legends e World of Warcraft.
 <br>
