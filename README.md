@@ -14,12 +14,12 @@
   </a>
 </p>
 
-## Olá, eu sou o Thiago! <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"></h2>
+## Olá mundo, eu sou o Thiago! <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"></h2>
 
 ### Sobre mim
 
 - 👨‍🎓 Estudante de analise e desenvolvimento de sistemas.
-- 🎯 Interesse: HTML, CSS, JavaScript.
+- 📜 Me aperfeiçoando em: JS, CSS, HTML, ReactJs, NodeJS.
 - 🎮 Gosto de jogar League of Legends e World of Warcraft.
 <br>
 <br>
