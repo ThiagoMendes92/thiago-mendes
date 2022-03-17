@@ -1,18 +1,8 @@
-<p align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img
-      align="center"
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThiagoMendes92&layout=compact"
-    />
-  </a>
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img
-      align="center"
-      height="165"
-      src="https://github-readme-stats.vercel.app/api?username=ThiagoMendes92&count_private=true&show_icons=true&custom_title=Github%20Status&hide=issues"
-    />
-  </a>
-</p>
+<div align="center">
+  <a href="https://github.com/ThiagoMendes92">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ThiagoMendes92&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThiagoMendes92&layout=compact&langs_count=7&theme=dracula"/>
+</div>
 
 ## Olá mundo, eu sou o Thiago! <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"></h2>
 
