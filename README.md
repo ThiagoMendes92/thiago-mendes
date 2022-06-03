@@ -4,7 +4,7 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThiagoMendes92&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 
-## Olá mundo, eu sou o Thiago! <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="5px"></h2>
+## Olá mundo, eu sou o Thiago! <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" style="width: 5px,"></h2>
 
 ### Sobre mim
 
