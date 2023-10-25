@@ -46,8 +46,4 @@
     <a href="https://www.linkedin.com/in/thiagomcoscrato">
         <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white&link=mailto:https://www.linkedin.com/in/thiagomcoscrato/">
     </a>
-</p><br>
-
- ![Snake animation](https://github.com/ThiagoMendes92/ThiagoMendes92/blob/output/github-contribution-grid-snake.svg)
-![Snake animation](https://github.com/{{ThiagoMendes92}}/{{ThiagoMendes92}}/blob/output/github-contribution-grid-snake.svg)
-
+</p>
