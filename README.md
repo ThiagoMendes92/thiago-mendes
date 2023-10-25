@@ -49,4 +49,5 @@
 </p><br>
 
  ![Snake animation](https://github.com/ThiagoMendes92/ThiagoMendes92/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/{{ThiagoMendes92}}/{{ThiagoMendes92}}/blob/output/github-contribution-grid-snake.svg)
 
