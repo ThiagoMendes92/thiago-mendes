@@ -1,5 +1,6 @@
 <div align="center">
   <a href="https://github.com/ThiagoMendes92">
+   [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ThiagoMendes92)](https://github.com/ThiagoMendes92/github-readme-stats)
   <img height="180em" src="[https://github-readme-stats.vercel.app/api?username=ThiagoMendes92&show_icons=true&theme=dracula&include_all_commits=true&count_private=true](https://github-readme-stats.vercel.app/api?username=ThiagoMendes92&show_icons=true&theme=dracula)"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThiagoMendes92&layout=compact&langs_count=7&theme=dracula"/>
 </div>
